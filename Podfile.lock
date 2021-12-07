@@ -1,0 +1,36 @@
+PODS:
+  - AWSCognito (2.19.1):
+    - AWSCore (= 2.19.1)
+  - AWSCore (2.19.1)
+  - AWSIoT (2.19.1):
+    - AWSCore (= 2.19.1)
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - AWSCognito
+  - AWSCore
+  - AWSIoT
+  - Charts
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - AWSCognito
+    - AWSCore
+    - AWSIoT
+    - Charts
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AWSCognito: f50de600804941d083af37a7568905f31a774727
+  AWSCore: 55c154ae27efc5c98bdc30a0eeea5a35d10a2ab5
+  AWSIoT: 6e03ffd2ed6c2411d3ef46a001d9d7256f3e12c1
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: fc3cd705998fdb6736ae8517bdd5ea2636034a7c
+
+COCOAPODS: 1.11.2
